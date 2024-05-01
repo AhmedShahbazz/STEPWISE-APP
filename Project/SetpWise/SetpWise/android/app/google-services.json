@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102594459856",
+    "project_id": "stepwise-10269",
+    "storage_bucket": "stepwise-10269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102594459856:android:3f2c28723ad387d15206d5",
+        "android_client_info": {
+          "package_name": "com.example.setpwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102594459856-tevs53rfcv2d5v0lrcosp5j99dmadhqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY7xffYpaWQqIpBidgohci5JobgVrqSEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102594459856-tevs53rfcv2d5v0lrcosp5j99dmadhqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
