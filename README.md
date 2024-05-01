@@ -36,7 +36,7 @@ flutter run
 
 ## Technologies
 - Flutter
-- Unsplash API
+- Google Maps API
 - Firebase Authentication
 - Firebase Cloud Storage
 - Firebase Real-time Database
