@@ -11,16 +11,18 @@ Step Wise is a cutting-edge mobile application built with Flutter that transform
 - Comprehensive activity insights
 - Personalized goal setting
 
-🛠 Tech Stack
-yamlCopytechnologies:
-  primary_framework: Flutter
-  backend: Firebase
-  mapping: Google Maps API
-  core_features:
+# 🛠 Tech Stack
+## technologies:
+  - primary_framework: Flutter
+  - backend: Firebase
+  - mapping: Google Maps API
+    
+  ## core_features:
     - step_tracking
     - route_mapping
     - activity_analytics
-📦 Installation & Setup
+    
+## 📦 Installation & Setup
 Prerequisites
 
 Flutter SDK
