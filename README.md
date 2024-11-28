@@ -2,13 +2,14 @@
 Step Wise is an innovative footstep tracking application developed to help users maintain an active and healthy lifestyle.
 
 # 🌟 Project Overview
+
 ## Description
 Step Wise is a cutting-edge mobile application built with Flutter that transforms your daily walking experience by providing:
 
-Precise step tracking
-Route mapping
-Comprehensive activity insights
-Personalized goal setting
+- **Precise step tracking
+- **Route mapping
+- **Comprehensive activity insights
+- **Personalized goal setting
 
 🛠 Tech Stack
 yamlCopytechnologies:
