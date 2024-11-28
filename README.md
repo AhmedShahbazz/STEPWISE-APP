@@ -80,7 +80,7 @@ git checkout -b feature/AmazingFeature
 
 ## Commit your changes
 ```bash
- git commit -m 'Add some AmazingFeature'
+ git commit -m ''
 ```
 ## Push to the branch
 ```bash
