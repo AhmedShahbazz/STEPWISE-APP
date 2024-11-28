@@ -18,71 +18,92 @@ Step Wise is a cutting-edge mobile application built with Flutter that transform
   - mapping: Google Maps API
     
   ## core_features:
-    - step_tracking
-    - route_mapping
-    - activity_analytics
+  - step_tracking
+  - route_mapping
+  - activity_analytics
     
-## 📦 Installation & Setup
-Prerequisites
+# 📦 Installation & Setup
+## Prerequisites
 
-Flutter SDK
-Android Studio / Xcode
-Firebase Account
+- Flutter SDK
+- Android Studio / Xcode
+- Firebase Account
 
-Clone Repository
-bashCopy# Clone the project repository
+## Clone Repository
+```bash
+Clone the project repository
 $ git clone https://github.com/AhmedShahbazz/STEPWISE-APP.git
 
 # Navigate to project directory
 $ cd STEPWISE-APP
-Dependencies Installation
-bashCopy# Fetch project dependencies
+```
+
+## Dependencies Installation
+```bash
+Fetch project dependencies
 $ flutter pub get
 
 # Verify installations
 $ flutter doctor
-Firebase Configuration
-dartCopy// Example Firebase initialization
+```
+
+## Firebase Configuration
+```bash
+Example Firebase initialization
 void initializeFirebase() {
   FirebaseApp app = Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
 }
-🚀 Running the Application
-bashCopy# Launch on connected device/emulator
+```
+# 🚀 Running the Application
+```bash
+Launch on connected device/emulator
 $ flutter run
-🔐 Firebase Services Enabled
+```
 
-Authentication
-Cloud Storage
-Real-time Database
+# 🔐 Firebase Services Enabled
 
-🤝 Contributing Guidelines
-How to Contribute
+- Authentication
+- Cloud Storage
+- Real-time Database
 
-Fork the repository
-Create your feature branch
-bashCopy$ git checkout -b feature/AmazingFeature
+# 🤝 Contributing Guidelines
 
-Commit your changes
-bashCopy$ git commit -m 'Add some AmazingFeature'
+## How to Contribute
 
-Push to the branch
-bashCopy$ git push origin feature/AmazingFeature
+- Fork the repository
+- Create your feature branch
+```bash
+git checkout -b feature/AmazingFeature
+```
 
-Open a Pull Request
+## Commit your changes
+```bash
+ git commit -m 'Add some AmazingFeature'
+```
+## Push to the branch
+```bash
+ git push origin feature/AmazingFeature
+```
 
-📄 License
+## Open a Pull Request
+
+# 📄 License
+```bash
 CopyMIT License
 
 Copyright (c) 2024 Ahmed Shahbaz
 
 Permission is hereby granted, free of charge...
-📞 Contact Information
-Project Maintainer: Ahmed Shahbaz
+```
 
-📧 Email: aahmedch420567@gmail.com
-🔗 GitHub: AhmedShahbazz
+# 📞 Contact Information
+
+## Project Maintainer: Ahmed Shahbaz
+
+- 📧 Email: aahmedch420567@gmail.com
+- 🔗 GitHub: AhmedShahbazz
 
 
-Happy Stepping! 👟✨
+# Happy Stepping! 👟✨
